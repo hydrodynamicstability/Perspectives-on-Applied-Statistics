@@ -4,11 +4,11 @@ Assembled by C. Tong
 
 ### John Kay and Mervyn King
 
-"Resolvable undertainty is uncertainty which can be removed by looking something up (I am uncertain which city is the capital of Pennsylvania) or which can be represented by a known probability distribution of outcomes (the spin of a roulette wheel).  With radical uncertainty, however, there is no similar means of resolving the uncertainty -- we simply do not know.  Radical uncertainty has many dimensions:  obscurity; ignorance; vagueness; ambiguity; ill-defined problems; and a lack of information that in some cases but not all we might hope to rectify at a future date.  Those aspects of uncertainty are the stuff of everyday experience.
+"Resolvable uncertainty is uncertainty which can be removed by looking something up (I am uncertain which city is the capital of Pennsylvania) or which can be represented by a known probability distribution of outcomes (the spin of a roulette wheel).  With radical uncertainty, however, there is no similar means of resolving the uncertainty -- we simply do not know.  Radical uncertainty has many dimensions:  obscurity; ignorance; vagueness; ambiguity; ill-defined problems; and a lack of information that in some cases but not all we might hope to rectify at a future date.  Those aspects of uncertainty are the stuff of everyday experience.
 
 "Radical uncertainty cannot be described in the probabilistic terms applicable to a game of chance.  It is not just that we do not know what will happen.  We often do not even know the kinds of things that might happen.  When we describe radical uncertainty we are not talking about 'long tails' -- imaginable and well-defined events whose probability can be estimated, such as a long losing streak at roulette.  And we are not only talking about the 'black swans' identified by Nassim Nicholas Taleb -- surprising events which no one could have anticipated until they happen, although these 'black swans' *are* examples of radical uncertainty.  We are emphasizing the vast range of possibilities that lie in between the world of unlikely events which can nevertheless be described with the aid of probability distributions, and the world of the unimaginable.  This is a world of uncertain futures and unpredictable consequences, about which there is necessary speculation and inevitable disagreement -- disagreement which often will never be resolved.  And it is that world which we mostly encounter."
 
- Source:  Excerpt from John Kay and Mervyn King (2020), *Radical Uncertainty:  Decision-Making Beyond the Numbers* (New York:  W. W. Norton), Ch. 1 ("The Unknowable Future")
+ Source:  Excerpt from John Kay and Mervyn King (2020), *Radical Uncertainty:  Decision-Making Beyond the Numbers* (New York:  W. W. Norton), Ch. 1 ("The Unknowable Future").
 
 ### John W. Tukey
 
@@ -16,9 +16,7 @@ Assembled by C. Tong
 
 "Data analysis needs to be both exploratory and confirmatory. In exploratory data analysis there can be no substitute for flexibility, for adapting what is calculated -- and, we hope, plotted -- both to the needs of the situation and the clues that the data have already provided. In this mode, data analysis is detective work -- almost an ideal example of seeking what might be relevant.
 
-"Confirmatory data analysis has its place, too.  Well used, its importance may even equal that of exploratory data analysis. We dare not, however, let it be an imprimatur or a testimony of infallibility.  'Not a high priestess but a handmaiden' must be our demand. Confirmatory data analysis must be the means by which we adjust optimism and pessimism, not only ours but those of our readers. To do this is not easy and may require new approaches and unfamiliar ways of thinking.
-
-\[....\]
+"Confirmatory data analysis has its place, too.  Well used, its importance may even equal that of exploratory data analysis. We dare not, however, let it be an imprimatur or a testimony of infallibility.  'Not a high priestess but a handmaiden' must be our demand. Confirmatory data analysis must be the means by which we adjust optimism and pessimism, not only ours but those of our readers. To do this is not easy and may require new approaches and unfamiliar ways of thinking.  \[....\]
 
 "Data analysis has its major uses. They are detective work and guidance counseling. Let us all try to act accordingly."
 
@@ -36,7 +34,7 @@ Source:  Excerpt from the final ("Summary and Conclusions") section of David Fre
 
 ### George E. P. Box
 
-"Statistics has no reason for existence except as a catalyst for scientific enquiry in which only the last stage, when all the creative work has already been done, is concerned with a final fixed model and a rigorous test of conclusions. The main part of such an investigation involves an inductive-deductive iteration with input coming fromthe subject-matter specialist at every stage. This requires a continuously developing model in which the identity of the measured responses, the factors considered, the structure of the mathematical model, the number and nature of its parameters and even the objective
+"Statistics has no reason for existence except as a catalyst for scientific enquiry in which only the last stage, when all the creative work has already been done, is concerned with a final fixed model and a rigorous test of conclusions. The main part of such an investigation involves an inductive-deductive iteration with input coming from the subject-matter specialist at every stage. This requires a continuously developing model in which the identity of the measured responses, the factors considered, the structure of the mathematical model, the number and nature of its parameters and even the objective
 of the study change. With its present access to enormous computer power and provocative and thought-provoking graphical display, modern statistics could make enormous contributions to this -- the main body of scientific endeavour. But most of the time it does not." 
 
 Source:  Excerpt from G. E. P. Box's *Discussion* of David Draper (1995), "Assessment and Propagation of Model Uncertainty" (with discussion), *Journal of the Royal Statistical Society*, Series B, 57 (1):  45–97.

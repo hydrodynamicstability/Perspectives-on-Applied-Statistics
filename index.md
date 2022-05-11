@@ -44,6 +44,8 @@ Source:  Excerpt from G. E. P. Box's *Discussion* of David Draper (1995), "Asses
 
 D. G. Altman and J. M. Bland, 1995: Absence of evidence is not evidence of absence. *British Medical Journal*, 311: 485.
 
+V. Amrhein, D. Trafimow, and S. Greenland, 2019:  Inferential statistics as descriptive statistics:  there is no replication crisis if we don’t expect replication.  *The American Statistician*, 73 (sup1):  262-270.
+
 G. E. P. Box, 1976:  Science and statistics.  *Journal of the American Statistical Association*, 71:  791-799.
 
 G. E. P. Box, 2001:  Statistics for discovery.  *Journal of Applied Statistics*, 28:  285-299.
@@ -78,7 +80,13 @@ B. Hayes, 2001: Randomness as a resource. *American Scientist*, 89: 300-304.
 
 J. R. Hollenbeck and P. M. Wright, 2016:  Harking, sharking, and tharking:  Making the case for post hoc analysis of scientific data.  *Journal of Management*, 43:  5-18.
 
+M. Lavine, 2019:  Frequentist, Bayes, or other?  *The American Statistican*, 73 (sup1):  312-318.
+
 G. J. Lithgow, M. Driscoll, and P. Phillips, 2017:  A long journey to reproducible results.  *Nature*, 548:  387-388.
+
+J. J. Locascio, 2019:  The impact of results blind scientific publishing on statistical consulation and collaboration.  *The American Statistician*, 73 (sup1):  346-351.
+
+B. B. McShane, D. Gal, A. Gelman, C. Robert, and J. L. Tackett, 2019:  Abandon statistical significance.  *The American Statistician*, 73 (sup1):  235-245.
 
 C. Mallows, 1998:  The zeroth problem.  *The American Statistician*, 52:  1-9.
 

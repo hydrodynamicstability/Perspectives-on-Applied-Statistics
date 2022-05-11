@@ -1,6 +1,6 @@
 ## Perspectives on Applied Statistics
 
-Assembled by C. Tong
+Assembled by C. Tong.  This is a living, growing page, so not the last word.
 
 ### John Kay and Mervyn King
 
@@ -40,7 +40,7 @@ of the study change. With its present access to enormous computer power and prov
 Source:  Excerpt from G. E. P. Box's *Discussion* of David Draper (1995), "Assessment and Propagation of Model Uncertainty" (with discussion), *Journal of the Royal Statistical Society*, Series B, 57 (1):  45–97.
 
 
-## Required reading for all applied statisticians and data professionals
+## Required reading for all applied statisticians and data professionals (IMHO)
 
 D. G. Altman and J. M. Bland, 1995: Absence of evidence is not evidence of absence. *British Medical Journal*, 311: 485.
 

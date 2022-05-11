@@ -39,3 +39,62 @@ of the study change. With its present access to enormous computer power and prov
 
 Source:  Excerpt from G. E. P. Box's *Discussion* of David Draper (1995), "Assessment and Propagation of Model Uncertainty" (with discussion), *Journal of the Royal Statistical Society*, Series B, 57 (1):  45–97.
 
+
+## Required reading for all applied statisticians and data professionals
+
+D. G. Altman and J. M. Bland, 1995: Absence of evidence is not evidence of absence. *British Medical Journal*, 311: 485.
+
+G. E. P. Box, 1976:  Science and statistics.  *Journal of the American Statistical Association*, 71:  791-799.
+
+G. E. P. Box, 2001:  Statistics for discovery.  *Journal of Applied Statistics*, 28:  285-299.
+
+L. Breiman, 2001:  Statistical modeling:  The two cultures (with discussion).  *Statistical Science*, 16:  199-231.
+
+C. Chatfield, 1995:  Model uncertainty, data mining and statistical inference (with discussion).  *Journal of the Royal Statistical Society*, Series A, 158:  419-466.
+
+W. E. Deming, 1975:  On probability as a basis for action.  *The American Statistician*, 29:  146-152.
+
+P. Diaconis, 1985:  Theories of data analysis:  From magical thinking through classical statistics.  In *Exploring Data Tables, Trends, and Shapes*, ed. by D. C. Hoaglin, F. Mosteller, and J. W. Tukey (New York:  Wiley), 1-36.
+
+D. Donoho, 2017:  50 years of data science (with discussion).  *Journal of Computational and Graphical Statistics*, 26:  745-785.
+
+A. S. C. Ehrenberg, 1990:  A hope for the future of statistics:  MSOD.  *The American Statistician*, 44:  195-196.
+
+A. S. C. Ehrenberg and J. A. Bound, 1993:  Predictability and prediction.  *Journal of the Royal Statistical Society*, Series A, 156:  167-206.
+
+D. A. Freedman, 1999:  From association to causation:  some remarks on the history of statistics.  *Statistical Science*, 14:  243-258.
+
+J. H. Friedman, 2001: The role of statistics in the data revolution? *International Statistical Review*, 69: 5-10.
+
+A. Gelman and E. Loken, 2014:  The statistical crisis in science.  *American Scientist*, 102:  460-465.
+
+G. Gigerenzer and J. Marewski, 2015:  Surrogate science:  The idol of a universal method for scientific inference.  *Journal of Management*, 41:  421-440.
+
+S. Greenland, 2017:  For and against methodologies:  some perspectives on recent causal and statistical inference debates.  *European Journal of Epidemiology*, 32:  3-20.
+
+S. Greenland, 2017:  The need for cognitive science in methodology.  *American Journal of Epidemiology*, 186:  639-645.
+
+B. Hayes, 2001: Randomness as a resource. *American Scientist*, 89: 300-304.
+
+J. R. Hollenbeck and P. M. Wright, 2016:  Harking, sharking, and tharking:  Making the case for post hoc analysis of scientific data.  *Journal of Management*, 43:  5-18.
+
+G. J. Lithgow, M. Driscoll, and P. Phillips, 2017:  A long journey to reproducible results.  *Nature*, 548:  387-388.
+
+C. Mallows, 1998:  The zeroth problem.  *The American Statistician*, 52:  1-9.
+
+J. S. Mogil and M. R. Macleod, 2017:  No publication without confirmation.  *Nature*, 542:  409-411.
+
+M. R. Munafo and G. Davey Smith, 2018:  Robust research needs many lines of evidence.  *Nature*, 553:  399-401.
+
+H. Quinn, 2009:  What is science?  *Physics Today*, 62 (7):  8-9.
+
+M. Schrage, 2000: How the bell curve cheats you. *Fortune*, 21 February 2000, p. 296.
+
+C. Seife, 2000:  CERN’s gamble shows perils, rewards of playing the odds.  *Science*, 289:  2260-2262.
+
+L. Shepp, 2007:  Statistical thinking:  From Tukey to Vardi and beyond.   In *Complex Datasets and Inverse Problems:  Tomography, Networks and Beyond*, ed. by R. Liu, W. Strawderman, and C.-H. Zhang.    IMS Lecture Notes-Monograph Series, 54:  268-273.
+
+J. P. Simmons, L. D. Nelson, and U. Simonsohn, 2011:  False-positive psychology:  undisclosed flexibility in data collection and analysis allows presenting anything as significant.  *Psychological Science*, 22:  1359-1366.
+
+J. W. Tukey, 1980:  We need both exploratory and confirmatory.  *American Statistician*, 34:  23-25.
+

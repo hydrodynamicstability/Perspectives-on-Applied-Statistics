@@ -39,6 +39,11 @@ of the study change. With its present access to enormous computer power and prov
 
 Source:  Excerpt from G. E. P. Box's *Discussion* of David Draper (1995), "Assessment and Propagation of Model Uncertainty" (with discussion), *Journal of the Royal Statistical Society*, Series B, 57 (1):  45–97.
 
+### Elisabeth Labrousse, on Pierre Bayle
+
+"It is not easy to formulate any kind of conclusion about someone who so delighted in leaving questions open, adopted so deliberately flippant a tone, displayed his pessimism so cheerfully (life being much too tragic to be taken seriously) and wore his massive erudition as lightly as Bayle did....Truth, he held, is not a body of knowledge that can be handed down, by ancestors, priests or rulers.  It is something one has to discover for oneself and make one's own, and this necessarily makes it subjective, finite and liable to the influence of ignorance and error.  It has to be thought of as the object of a permanent quest, a goal that no human being can ever actually reach."
+
+Source:  Excerpt from the Conclusion (Chapter 6) of E. Labrousse's *Bayle* (1983), translated by Denys Potts (New York:  Oxford University Press).
 
 ## Required reading for all applied statisticians and data professionals (IMHO)
 

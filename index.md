@@ -13,13 +13,9 @@ Assembled by C. Tong.  This is a living, growing page, so not the last word.
 ### Harry Crane
 
 "Naive probabilism is the (naive) view, held by many technocrats and academics, that all rational thought boils down to probability calculations. It underlies the growing obsession with 'data-driven methods' that has overtaken the hard sciences, soft sciences, pseudosciences and non-sciences. It has infiltrated politics, society and business. It's the workhorse of formal epistemology, decision theory and behavioral economics. Because it is
-mostly applied in low or no-stakes academic investigations and philosophical meandering, its flaws are easy to overlook. Real world applications of naive probabilism, however, pose disproportionate risks which scale exponentially with the stakes, ranging from harmless (and also helpless) in many academic contexts to destructive in the most extreme cases (war, pandemic).
+mostly applied in low or no-stakes academic investigations and philosophical meandering, its flaws are easy to overlook. Real world applications of naive probabilism, however, pose disproportionate risks which scale exponentially with the stakes, ranging from harmless (and also helpless) in many academic contexts to destructive in the most extreme cases (war, pandemic).  \[....\]
 
-\[....\]
-
-"The naive probabilist is beholden to the view that rational thinking is probability calculus....Probability calculations are very precise, and for that reason alone they are also of very limited use. Outside of gambling, financial applications, and some physical and engineering problems--and even these are limited--mathematical probability is of little direct use for reasoning with uncertainty.
-
-\[....\]
+"The naive probabilist is beholden to the view that rational thinking is probability calculus....Probability calculations are very precise, and for that reason alone they are also of very limited use. Outside of gambling, financial applications, and some physical and engineering problems--and even these are limited--mathematical probability is of little direct use for reasoning with uncertainty.  \[....\]
 
 "Real world problems require more than just thinking in bets. Most common sense is qualitative, thinking about plausibility and possibility long before precisely quantifying probabilities of any kind. Even in cases where the probabilities can be quantified, they should rarely be interpreted literally."
 

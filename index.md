@@ -2,13 +2,19 @@
 
 Assembled by C. Tong.  This is a living, growing page, so not the last word.
 
+### Nassim Nicholas Taleb
+
+"Ludic fallacy (or uncertainty of the nerd):  the manifestation of the Platonic fallacy in the study of uncertainty; basing studies of chance on the narrow world of games and dice.  A-Platonic randomness has an additional layer of uncertainty concerning the rules of the game in real life."
+
+Source:  Nassim Nicholas Taleb (2010), *The Black Swan:  The Impact of the Highly Improbable*, second edition (New York:  Random House), Glossary, p. 303.
+
 ### John Kay and Mervyn King
 
 "Resolvable uncertainty is uncertainty which can be removed by looking something up (I am uncertain which city is the capital of Pennsylvania) or which can be represented by a known probability distribution of outcomes (the spin of a roulette wheel).  With radical uncertainty, however, there is no similar means of resolving the uncertainty -- we simply do not know.  Radical uncertainty has many dimensions:  obscurity; ignorance; vagueness; ambiguity; ill-defined problems; and a lack of information that in some cases but not all we might hope to rectify at a future date.  Those aspects of uncertainty are the stuff of everyday experience.
 
 "Radical uncertainty cannot be described in the probabilistic terms applicable to a game of chance.  It is not just that we do not know what will happen.  We often do not even know the kinds of things that might happen.  When we describe radical uncertainty we are not talking about 'long tails' -- imaginable and well-defined events whose probability can be estimated, such as a long losing streak at roulette.  And we are not only talking about the 'black swans' identified by Nassim Nicholas Taleb -- surprising events which no one could have anticipated until they happen, although these 'black swans' *are* examples of radical uncertainty.  We are emphasizing the vast range of possibilities that lie in between the world of unlikely events which can nevertheless be described with the aid of probability distributions, and the world of the unimaginable.  This is a world of uncertain futures and unpredictable consequences, about which there is necessary speculation and inevitable disagreement -- disagreement which often will never be resolved.  And it is that world which we mostly encounter."
 
- Source:  Excerpt from John Kay and Mervyn King (2020), *Radical Uncertainty:  Decision-Making Beyond the Numbers* (New York:  W. W. Norton), Ch. 1 ("The Unknowable Future").
+Source:  Excerpt from John Kay and Mervyn King (2020), *Radical Uncertainty:  Decision-Making Beyond the Numbers* (New York:  W. W. Norton), Ch. 1 ("The Unknowable Future").
 
 ### Harry Crane
 
@@ -20,6 +26,15 @@ mostly applied in low or no-stakes academic investigations and philosophical mea
 "Real world problems require more than just thinking in bets. Most common sense is qualitative, thinking about plausibility and possibility long before precisely quantifying probabilities of any kind. Even in cases where the probabilities can be quantified, they should rarely be interpreted literally."
 
 Source:  Exceprts from Harry Crane (2020), "[Naive probablism](http://www.researchers.one/article/2020-03-9)".
+
+### Herbert I. Weisberg
+
+"We must recognize that probability theory *alone* is insufficient to establish scientific validity.  There is only one foolproof way to learn whether an observed finding, however statistically significant it may appear, might actually hold up in practice.  We must dust off the time-honored principle of *replication* as the touchstone of validity.  Ideally each study should be validated by collecting new data and performing a new analysis.  Only when the system demands and rewards independent replications of study findings can and should public confidence in the integrity of the scientific enterprise be restored."  (p. 344)
+
+"Creating a culture of science in which independent validation becomes a primary criterion for scientific acceptance will help to regain public trust.  Knowing that their findings will be subjected to independent scrutiny will impose a higher standard of proof on investigators.  At the same time, however, it wil free them up to follow promising leads and refine hypotheses.  Requiring real validation will blunt the inhibitions that result from the pressure to achieve statistical significance or bust.  Because both data exploration and independent validation require substantial skill and effort, the quantity of research being generated may well decrease as a result.  However, the quality should improve greatly." (p. 363)
+
+Source:  Excerpts from Herbert I. Weisberg (2014), *Willful Ignorance:  The Mismeasure of Uncertainty* (Hoboken:  Wiley), chapters 11 and 12 ("The Lottery in Science" and "Trust, but Verify", respectively).
+
 
 ### John W. Tukey
 

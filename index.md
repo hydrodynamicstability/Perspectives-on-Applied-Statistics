@@ -135,6 +135,8 @@ L. Shepp, 2007:  Statistical thinking:  From Tukey to Vardi and beyond.   In *Co
 
 J. P. Simmons, L. D. Nelson, and U. Simonsohn, 2011:  False-positive psychology:  undisclosed flexibility in data collection and analysis allows presenting anything as significant.  *Psychological Science*, 22:  1359-1366.
 
+E. L. Thompson and L. A. Smith, 2019:  Escape from model-land.  *Economics*, 13:  2019-40.
+
 J. W. Tukey, 1980:  We need both exploratory and confirmatory.  *American Statistician*, 34:  23-25.
 
 R. L. Wasserstein and N. A. Lazar, 2016:  The ASA's statement on p-values:  context, process, and purpose.  *The American Statistician*, 70:  129-133.

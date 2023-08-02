@@ -2,6 +2,13 @@
 
 Assembled by C. Tong.  This is a living, growing page, so not the last word.
 
+### Richard von Mises
+
+"The leitmotif, the ever recurring melody, is that two things are indispensable in any reasoning, in any description we shape of a segment of reality: to submit to experience and to face the language that is used, with unceasing logical criticism."
+
+Source:  Richard von Mises (1958), *Mathematical Theory of Compressible Fluid Flow* (New York:  Academic Press; reprinted by Dover, 2004), epigraph.
+
+
 ### Nassim Nicholas Taleb
 
 "Ludic fallacy (or uncertainty of the nerd):  the manifestation of the Platonic fallacy in the study of uncertainty; basing studies of chance on the narrow world of games and dice.  A-Platonic randomness has an additional layer of uncertainty concerning the rules of the game in real life."

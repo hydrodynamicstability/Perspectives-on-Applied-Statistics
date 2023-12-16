@@ -144,6 +144,8 @@ M. R. Munafo and G. Davey Smith, 2018:  Robust research needs many lines of evid
 
 H. Quinn, 2009:  What is science?  *Physics Today*, 62 (7):  8-9.
 
+P. S. Reynolds, 2022:  Between two stools: preclinical research, reproducibility, and statistical design of experiments.  *BMC Research Notes*, 15:  73.
+
 M. Schrage, 2000: How the bell curve cheats you. *Fortune*, 21 February 2000, p. 296.
 
 C. Seife, 2000:  CERN’s gamble shows perils, rewards of playing the odds.  *Science*, 289:  2260-2262.

@@ -86,6 +86,12 @@ Source:  Excerpts from Erica Thompson's *Escape from Model Land:  How Mathematic
 
 Source:  Excerpt from the Conclusion (Chapter 6) of E. Labrousse's *Bayle* (1983), translated by Denys Potts (New York:  Oxford University Press).
 
+### Richard Feynman
+
+"[T]he imagination of nature is far, far greater than the imagination of man."
+
+Source:  *The Value of Science*, lecture at the Autumn 1955 meeting of the National Academy of Sciences.  Printed in CalTech's *Engineering and Science* magazine, Dec. 1955 issue, vol. 19, no. 3, pp. 13-15.  Reprinted in *What Do You Care What Other People Think?  Further Adventures of a Curious Character* (Norton, 1988) and *The Pleasure of Finding Things Out:  The Best Short Works of Richard P. Feynman* (Perseus, 1999).  Also appears in Feynman's John Danz lectures at the University of Washington, April 1963; printed in *The Meaning of it All:  Thoughts of a Citizen-Scientist* (Perseus, 1998), p. 10.
+
 ## Required reading for all applied statisticians and data professionals (IMHO)
 
 D. G. Altman and J. M. Bland, 1995: Absence of evidence is not evidence of absence. *British Medical Journal*, 311: 485.

@@ -86,11 +86,26 @@ Source:  Excerpts from Erica Thompson's *Escape from Model Land:  How Mathematic
 
 Source:  Excerpt from the Conclusion (Chapter 6) of E. Labrousse's *Bayle* (1983), translated by Denys Potts (New York:  Oxford University Press).
 
-### Richard Feynman
+### Richard P. Feynman
 
 "[T]he imagination of nature is far, far greater than the imagination of man."
 
-Source:  *The Value of Science*, lecture at the Autumn 1955 meeting of the National Academy of Sciences.  Printed in CalTech's *Engineering and Science* magazine, Dec. 1955 issue, vol. 19, no. 3, pp. 13-15.  Reprinted in *What Do You Care What Other People Think?  Further Adventures of a Curious Character* (Norton, 1988) and *The Pleasure of Finding Things Out:  The Best Short Works of Richard P. Feynman* (Perseus, 1999).  Also appears in Feynman's John Danz lectures at the University of Washington, April 1963; printed in *The Meaning of it All:  Thoughts of a Citizen-Scientist* (Perseus, 1998), p. 10.
+Source:  *The Value of Science*, lecture at the Autumn 1955 meeting of the National Academy of Sciences.  Printed in CalTech's *Engineering and Science* magazine, Dec. 1955 issue, vol. 19, no. 3, pp. 13-15.  
+
+"It is necessary and true that all of the things we say in science, all of the conclusions, are uncertain, because they are only conclusions.  They are guesses as to what is going to happen, and you cannot know what will happen, because you have not made the most complete experiments....
+
+"Scientists, therefore, are used to dealing with doubt and uncertainty.  All scientific knowledge is uncertain.  This experience with doubt and uncertainty is important.  I believe that it is of very great value, and one that extends beyond the sciences.  I believe that to solve any problem that has never been solved before, you have to leave the door to the unknown ajar.  You have to permit the possibility that you do not have it exactly right.  Otherwise, if you have made up your mind already, you might not solve it.
+
+"When the scientist tells you he does not know the answer, he is an ignorant man.  When he tells you he has a hunch about how it is going to work, he is uncertain about it.  When he is pretty sure of how it is going to work, and he tells you, 'This is the way it's going to work, I'll bet,' he still is in some doubt.  And it is of paramount importance in order to make progress, that we recognize this ignorance and this doubt.  Because we have the doubt, we then propose looking in new directions for new ideas.  The rate of the development of science is not the rate at which you make observations alone but, much more important, the rate at which you create new things to test.
+
+"If we were not able or did not desire to look in any new direction, if we did not have a doubt or recongize ignorance, we would not get any new ideas.  There would be nothing worth checking, because we would know what is true.  So what we call scientific knowledge today is a body of statements of varying degrees of uncertainty.  Some of them are most unsure; some of them are nearly sure; but none is absolutely certain.  Scientists are used to this.  We know that it is consistent to be able to live and not know....
+
+"This freedom to doubt is an important matter in the sciences and, I believe, in other fields.  It was born of a struggle.  It was a struggle to be permitted to doubt, to be unsure.  And I do not want us to forget the importance of the struggle and, by default, to let the thing fall away.  I feel a responsibility as a scientist who knows the great value of a satisfactory philosophy of ignornace, and the progress made possible by such a philosophy, progress which is the fruit of freedom of thought.  I feel a responsibility to proclaim the value of this freedom and to teach that doubt is not to be feared, but that it is to be welcomed as the possibility of a new potential for human beings.  If you know that you are not sure, you have a chance to improve the situation.  I want to demand this freedom for future generations."
+
+Source:  Excerpt from Richard Feynman's John Danz lectures at the University of Washington, April 1963; printed in *The Meaning of it All:  Thoughts of a Citizen-Scientist* (Perseus, 1998), end of chapter 1, "The Uncertainty of Science".
+
+
+
 
 ## Required reading for all applied statisticians and data professionals (IMHO)
 

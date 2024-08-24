@@ -72,7 +72,22 @@ of the study change. With its present access to enormous computer power and prov
 
 Source:  Excerpt from G. E. P. Box's *Discussion* of David Draper (1995), "Assessment and Propagation of Model Uncertainty" (with discussion), *Journal of the Royal Statistical Society*, Series B, 57 (1):  45–97.
 
+### Andrew Gelman
+
+"As a statistician, I make use of the mathematics of probability and variation every day. Outside of my work, though, I am very uncomfortable with uncertainty, whether in the personal or political realms. And I think most people feel the same way. Even in areas such as scientific research or economic and political forecasting where uncertainty is inherent (if you knew what would happen in science, you wouldn’t have to do research; if there was no future uncertainty, there’s be no need to make a forecast), a lot of effort gets put effort into avoiding or denying uncertainty, a 'premature collapsing of the wave function,' to use an analogy from quantum physics. When a 'statistically significant' result in an experiment is reported as a discovery, or when a non-statistically-significant difference is reported as a null result, this is a denial of uncertainty.
+
+"Collapsing of uncertainty reduces mental tension: it’s work to hold two conflicting ideas in your head at once, and a relief to be able to choose just one---especially if you are persuaded that this choice is justified by science. Hence the appeal of making strong statements, which also can get you some attention and respect if stated with enough of an air of authority....
+
+"The replication crisis in science is a product of systematic discomfort with uncertainty, with speculative results presented as settled fact, leading to distress when these findings do not hold up in later experiments: a scientific and emotional boom-and-bust cycle. Indeed, classical statistical methods seem almost designed to create this boom-and-bust behavior, when non-statistically-significant results are treated as if they were zero and statistically-significant results are taken at face value."
+
+Source:  A. Gelman (2024), [The River, the Village, and the Fort: Nate Silver’s new book, *On the Edge*](https://statmodeling.stat.columbia.edu/2024/08/13/the-river-the-village-and-the-fort-nate-silvers-new-book-on-the-edge/), *Statistical Modeling, Causal Inference, and Social Science*, Aug. 13, 2024.
+
+
 ### Erica Thompson
+
+"Though Model Land is easy to enter, it is not so easy to leave.  Having constructed a beautiful, internally consistent model and a set of analysis methods that describe the model in detail, it can be emotionally difficult to acknowledge that the initial assumptions on which the whole thing is built are not literally true.  This is why so many reports and academic papers about models either make and forget their assumptions, or test them only in a perfunctory way.  Placing a chart of model output next to a picture of real observations and stating that they look very similar in all important respects is a statement of faith, not an evaluation of model performance, and any inferences based on that model are still in Model Land."  (Ch. 1)
+
+"In my view, the continued success of modelling depends on creating a programme of understanding that uses models as a tool and as a guide for thinking and communication, and that recognises and is clear about its own limits.  As such, one priority is to understand the exits from Model Land and signpost them more clearly....Briefly, there are two exits from Model Land:  one quantitative and one qualitative.  The quantitative exit is by comparison of the model against out-of-sample data---data that were not used in the construction of the model....The standard disclaimer on investiment opportunities also applies to models:  past performance is no guarantee of future success.  The qualitative exit from Model Land is much more commonly attempted, but it is also much more difficult to make a successful exit this way.  It consists of a simple assertion, based on expert judgment about the quality of the representation, that the model bears a certain relationship with the real world....This is essentially an implicit expert judgment that the model is perfect; Model Land is reality; our assumptions are either literally true or close enough that any differences are negligible....this kind of naive Model Land realism can have catastrophic effects because it invariably results in an underestimation of uncertainties and exposure to greater-than-expected risk....The subjectivity of that second escape route may still worry you.  It should."  (Ch. 1)
 
 "\[R\]eliance on models for information leads to a kind of accountability gap.  Who is responsible if a model makes harmful predictions?  The notion of 'following the science' becomes a screen behind which both decision-makers and scientists can hide, saying 'the science says we must do X' in some situations and 'it's only a model' in others.  The public are right to be suspicous of the political and social motives behind this kind of dissimulation.  Scientists and other authorities must do better at developing and being worthy of trust by making the role of expert judgment much clearer, being transparent about their own backgrounds and interests, and encouraging wider representation of different backgrounds and interests."  (Ch. 1)
 
@@ -180,6 +195,8 @@ L. Shepp, 2007:  Statistical thinking:  From Tukey to Vardi and beyond.   In *Co
 J. P. Simmons, L. D. Nelson, and U. Simonsohn, 2011:  False-positive psychology:  undisclosed flexibility in data collection and analysis allows presenting anything as significant.  *Psychological Science*, 22:  1359-1366.
 
 E. L. Thompson and L. A. Smith, 2019:  Escape from model-land.  *Economics*, 13:  2019-40.
+
+J. W. Tukey, 1969:  Analyzing data:  sanctification or detective work?  *American Psychologist*, 24:  83-91.
 
 J. W. Tukey, 1980:  We need both exploratory and confirmatory.  *American Statistician*, 34:  23-25.
 

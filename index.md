@@ -95,6 +95,14 @@ Source:  A. Gelman (2024), [The River, the Village, and the Fort: Nate Silver’
 
 Source:  Excerpts from Erica Thompson's *Escape from Model Land:  How Mathematical Models Can Lead Us Astray and What We Can Do About It* (2022, New York:  Basic Books).
 
+### General Colin L. Powell
+
+"When I left the A Shau Valley, I shifted from a worm's-eye to a bird's-eye view of the war, and the new vantage point was not comforting.  One of my assignments was to feed data to a division intelligence officer who was trying to predict when mortar attacks were most likely to occur.  He worked behind a green door marked 'No Entry' doing something called 'regression analysis'.  My data got through the door, but not me.  I was not cleared to enter.  One day, the officer finally emerged.  There were, he reported, periods when we could predict increased levels of mortar fire with considerable certainty.  When was that?  By the dark of the moon.  Well, knock me over with a rice ball.  Weeks of statistical anaylsis had taught this guy what any ARVN private could have told him in five seconds.  It is more dangerous out there when it is dark....Deep thinkers, like my intelligence officer behind the green door, were producing printouts, filling spreadsheets, crunching numbers, and coming out with blinding flashes of the obvious, while an enemy in black pajamas and Firestone flip-flops could put an officer out of the war with a piece of bamboo dipped in manure...."
+
+"I began developing another rule:  don't be buffaloed by experts and elites.  Experts often possess more data than judgment.  Elites can become so inbred that they produce hemophiliacs who bleed to death as soon as they are nicked by the real world."
+
+Source:  Excerpts from Chapter 4, *My American Journey*, by Colin Powell with Joseph E. Persico (1995, New York:  Random House).
+
 ### Elisabeth Labrousse, on Pierre Bayle
 
 "It is not easy to formulate any kind of conclusion about someone who so delighted in leaving questions open, adopted so deliberately flippant a tone, displayed his pessimism so cheerfully (life being much too tragic to be taken seriously) and wore his massive erudition as lightly as Bayle did....Truth, he held, is not a body of knowledge that can be handed down, by ancestors, priests or rulers.  It is something one has to discover for oneself and make one's own, and this necessarily makes it subjective, finite and liable to the influence of ignorance and error.  It has to be thought of as the object of a permanent quest, a goal that no human being can ever actually reach."

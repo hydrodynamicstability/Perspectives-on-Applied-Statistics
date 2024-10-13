@@ -144,6 +144,8 @@ G. E. P. Box, 1976:  Science and statistics.  *Journal of the American Statistic
 
 G. E. P. Box, 2001:  Statistics for discovery.  *Journal of Applied Statistics*, 28:  285-299.
 
+A. Bradford Hill, 1965:  The environment and disease:  association or causation?  *Proceedings of the Royal Society of Medicine*, 58 (5):  295-300.
+
 L. Breiman, 2001:  Statistical modeling:  The two cultures (with discussion).  *Statistical Science*, 16:  199-231.
 
 C. Chatfield, 1995:  Model uncertainty, data mining and statistical inference (with discussion).  *Journal of the Royal Statistical Society*, Series A, 158:  419-466.
@@ -217,7 +219,7 @@ Allen V. Astin's [invited address](https://www.nist.gov/speech-testimony/allen-v
 
 Richard W. Hamming's lecture, *You and Your Research*.  There are several versions floating around the Internet, including video recordings such as [this](https://www.youtube.com/watch?v=e3msMuwqp-o), but a somewhat definitive version can be found in Hamming's book *The Art of Doing Science and Engineering:  Learning to Learn* (Gordon and Breach, Amsterdam, 1997), chapter 30.
 
-Freeman Dyson's never delivered AMS Einstein Lecture, [*Birds and Frogs*](https://www.ams.org/notices/200902/rtx090200212p.pdf), published in the *Notices of the American Mathematical Society*, vol. 56, no. 2, pp. 212-223.
+Freeman Dyson's never delivered AMS Einstein Lecture, [*Birds and Frogs*](https://www.ams.org/notices/200902/rtx090200212p.pdf), published in 2009 in the *Notices of the American Mathematical Society*, vol. 56, no. 2, pp. 212-223.
 
 [The Scientific Virtues](https://slimemoldtimemold.com/2022/02/10/the-scientific-virtues/) by Slime Mold Time Mold (Feb. 10, 2022).
 

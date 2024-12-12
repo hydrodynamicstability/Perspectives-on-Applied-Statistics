@@ -82,6 +82,11 @@ Source:  Excerpt from G. E. P. Box's *Discussion* of David Draper (1995), "Asses
 
 Source:  A. Gelman (2024), [The River, the Village, and the Fort: Nate Silver’s new book, *On the Edge*](https://statmodeling.stat.columbia.edu/2024/08/13/the-river-the-village-and-the-fort-nate-silvers-new-book-on-the-edge/), *Statistical Modeling, Causal Inference, and Social Science*, Aug. 13, 2024.
 
+"In statistics and machine learning—theory and application alike—we focus so much on the analysis of some particular dataset in the context of some existing theory. But real science and engineering almost always involves designing new experiments, incorporating new data into our analyses, and trying out new substantive models. From that perspective, looking at post-selection inference is fine—it represents a sort of minimal adjustment of an analysis, in the same way that the sampling standard error from a survey is a minimal statement of uncertainty, representing uncertainty under ideal conditions, not real conditions.  \[....\]
+
+"To me, doing poorly-motivated model selection and then trying to clean it up statistically is kinda like making a big mess and then trying to clean it up, or blowing something up and then trying to put it back together. I’d rather try to do something reasonable in the first place. And then, yes, there are still selection issues—there’s not one single reasonable hierarchical model, or only one single reasonable regularized machine learning algorithm, or whatever—but the selection becomes a much smaller part of the problem, which in practice gets subsumed by multiple starting points, cross validation, new data and theories, external validation, etc."
+
+Source:  A. Gelman (2024:, [Answering two questions, one about Bayesian post-selection inference and one about prior and posterior predictive checks](https://statmodeling.stat.columbia.edu/2024/12/11/51447/), *Statistical Modeling, Causal Inference, and Social Science*, Dec. 11, 2024.
 
 ### Erica Thompson
 

@@ -165,6 +165,8 @@ A. S. C. Ehrenberg, 1990:  A hope for the future of statistics:  MSOD.  *The Ame
 
 A. S. C. Ehrenberg and J. A. Bound, 1993:  Predictability and prediction.  *Journal of the Royal Statistical Society*, Series A, 156:  167-206.
 
+W. Feller, 1970:  *An Introduction to Probability Theory and Its Applications*, revised third edition (New York:  Wiley), Introduction (pp. 1-6).
+
 D. A. Freedman, 1999:  From association to causation:  some remarks on the history of statistics.  *Statistical Science*, 14:  243-258.
 
 J. H. Friedman, 2001: The role of statistics in the data revolution? *International Statistical Review*, 69: 5-10.

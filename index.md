@@ -72,6 +72,18 @@ of the study change. With its present access to enormous computer power and prov
 
 Source:  Excerpt from G. E. P. Box's *Discussion* of David Draper (1995), "Assessment and Propagation of Model Uncertainty" (with discussion), *Journal of the Royal Statistical Society*, Series B, 57 (1):  45–97.
 
+"Statistics is, or should be, about scientific investigation and how to do it better, but many statisticians believe it is a branch of mathematics....
+
+"So I think it ludicrous to suppose that anyone who has no experience of real scientific inquiry is qualified to teach or research statistics.  Unhappily, many of the people in our most prestigious universities who are teaching future statisticians and conducting research in statistics are precisely in this category...."
+
+"When I talk to engineers and physical scientists whom I am hoping to persuade to give statistical methods a chance, I have come to dread the comment 'Yes, I once took a course in statistics,' because I know it usually means that instead of starting from scratch, I now must start with a severe handicap...."
+
+"Much philosophical argumentation about the nature of statistical inference is, I believe, irrelevant because it contains the hidden but profound assumption of a one-shot approach, in spite of the fact that the majority of scientific investigations follow an iterative and adaptive sequence.  Since the inductive-deductive iteration which is scientific method cannot be readily fitted into a purely mathematical model, we too often agree to concentrate on the deductive bit we *can* study mathematically and pretend that the rest does not exist.  This cuts the investigatory process in two and kills it.  Students absorb the impression that models are true and data are wrong instead of the other way around.  The assumption of normality is stressed but the devastating effect of dependence in space and time in our essentially nonstationary world is not.  The dominant role of the design of experiments and surveys, as compared with their analysis, is not understood..."
+
+"It seems a pity that while we statisticians have an opportunity to rate as first-class scientists we should settle for the rather dreary role of second-class mathematicians.  So I am not surprised by the situation we are in.  I believe scientists and engineers have little time for statistics because they judge much of it to be irrelevant to what they are doing, and they are right."
+
+Source:  Excerpts from G. E. P. Box's *Commentary* on A. Bruce Hoadley and J. R. Kettenring (1990), "Communications Between Statisticians and Engineers/Physical Scientists" (with discussion), *Technometrics*, 32 (3):  243-274.
+
 ### Andrew Gelman
 
 "As a statistician, I make use of the mathematics of probability and variation every day. Outside of my work, though, I am very uncomfortable with uncertainty, whether in the personal or political realms. And I think most people feel the same way. Even in areas such as scientific research or economic and political forecasting where uncertainty is inherent (if you knew what would happen in science, you wouldn’t have to do research; if there was no future uncertainty, there’s be no need to make a forecast), a lot of effort gets put effort into avoiding or denying uncertainty, a 'premature collapsing of the wave function,' to use an analogy from quantum physics. When a 'statistically significant' result in an experiment is reported as a discovery, or when a non-statistically-significant difference is reported as a null result, this is a denial of uncertainty.

@@ -254,5 +254,5 @@ Freeman Dyson's never delivered AMS Einstein Lecture, [*Birds and Frogs*](https:
 
 [The Scientific Virtues](https://slimemoldtimemold.com/2022/02/10/the-scientific-virtues/) by Slime Mold Time Mold (Feb. 10, 2022).
 
-
+For physics students, see Arlene Modeste Knowles, Fall 2025:  You belong here.  *SPS Observer*, LIX (2):  5-6.
 

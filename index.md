@@ -256,3 +256,4 @@ Freeman Dyson's never delivered AMS Einstein Lecture, [*Birds and Frogs*](https:
 
 For physics students, see Arlene Modeste Knowles, Fall 2025:  You belong here.  *SPS Observer*, LIX (2):  5-6.
 
+For fluid dynamicists, see G. Batchelor, 1997:  [Research as a life style](https://doi.org/10.1115/1.3101735).  *Applied Mechanics Reviews*, 50:  R11-R20.  I disagree with some of the points he makes, and research today is more stressful, competitive, and disheartening than what he describes.

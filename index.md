@@ -244,7 +244,7 @@ R. L. Wasserstein and N. A. Lazar, 2016:  The ASA's statement on p-values:  cont
 
 ## Some thoughts on being a researcher
 
-Allen V. Astin's [invited address](https://www.nist.gov/speech-testimony/allen-v-astin-invited-address-american-physical-society) to the American Physical Society (APS), Washington, D.C., May 1, 1953.
+Allen V. Astin's [invited address](https://www.nist.gov/speech-testimony/allen-v-astin-invited-address-american-physical-society) to the American Physical Society (APS), Washington, D.C., May 1, 1953.  This address was also [printed](https://doi.org/10.1063/1.3061254) in the June 1953 issue of *Physics Today*.  (Context for these remarks is provided in an [article](https://doi.org/10.1063/pt.kpxj.pbav) by Joseph D. Martin in the October 2025 issue of *Physics Today*.)
 
 Richard W. Hamming's lecture, *You and Your Research*.  There are several versions floating around the Internet, including video recordings such as [this](https://www.youtube.com/watch?v=e3msMuwqp-o), but a somewhat definitive version can be found in Hamming's book *The Art of Doing Science and Engineering:  Learning to Learn* (Gordon and Breach, Amsterdam, 1997), chapter 30.
 

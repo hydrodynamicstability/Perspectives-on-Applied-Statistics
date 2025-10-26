@@ -201,6 +201,8 @@ S. Greenland, 2017:  For and against methodologies:  some perspectives on recent
 
 S. Greenland, 2017:  The need for cognitive science in methodology.  *American Journal of Epidemiology*, 186:  639-645.
 
+R. W. Hamming, 1973:  The art of computing for scientists and engineers.  *Numerical Methods for Scientists and Engineers*, second edition (New York:  McGraw-Hill; reprinted by Dover in 1986), Chapter "N+1" (pp. 702-710).
+
 B. Hayes, 2001: Randomness as a resource. *American Scientist*, 89: 300-304.
 
 J. R. Hollenbeck and P. M. Wright, 2016:  Harking, sharking, and tharking:  Making the case for post hoc analysis of scientific data.  *Journal of Management*, 43:  5-18.

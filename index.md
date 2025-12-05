@@ -223,6 +223,8 @@ J. S. Mogil and M. R. Macleod, 2017:  No publication without confirmation.  *Nat
 
 M. R. Munafo and G. Davey Smith, 2018:  Robust research needs many lines of evidence.  *Nature*, 553:  399-401.
 
+N. Oreskes, K. Shrader-Frechette, and K. Belitz, 1994:  Verification, validation, and confirmation of numerical models in the earth sciences.  *Science*, 263:  641-646.
+
 H. Quinn, 2009:  What is science?  *Physics Today*, 62 (7):  8-9.
 
 P. S. Reynolds, 2022:  Between two stools: preclinical research, reproducibility, and statistical design of experiments.  *BMC Research Notes*, 15:  73.

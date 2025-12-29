@@ -34,6 +34,12 @@ mostly applied in low or no-stakes academic investigations and philosophical mea
 
 Source:  Exceprts from Harry Crane (2020), "[Naive probablism](http://www.researchers.one/article/2020-03-9)".
 
+### Roger A. Pielke, Jr.
+
+"In other words, most descriptions of objective uncertainties are highly subjective.  Stated more strongly, there are no such things as objective uncertainties except in fully characterized, closed systems, such as are found in games of chance such as poker or dice, or controlled laboratory experiments."
+
+Source:  Roger A. Pielke, Jr. (2007), *The Honest Broker:  Making Sense of Science in Policy and Politics* (New York:  Cambridge University Press), Chapter 5, "Uncertainty", p. 59.
+
 ### Herbert I. Weisberg
 
 "We must recognize that probability theory *alone* is insufficient to establish scientific validity.  There is only one foolproof way to learn whether an observed finding, however statistically significant it may appear, might actually hold up in practice.  We must dust off the time-honored principle of *replication* as the touchstone of validity.  Ideally each study should be validated by collecting new data and performing a new analysis.  Only when the system demands and rewards independent replications of study findings can and should public confidence in the integrity of the scientific enterprise be restored."  (p. 344)

@@ -258,7 +258,7 @@ Allen V. Astin's [invited address](https://www.nist.gov/speech-testimony/allen-v
 
 Richard W. Hamming's lecture, *You and Your Research*.  There are several versions floating around the Internet, including video recordings such as [this](https://www.youtube.com/watch?v=e3msMuwqp-o), but a somewhat definitive version can be found in Hamming's book *The Art of Doing Science and Engineering:  Learning to Learn* (Gordon and Breach, Amsterdam, 1997), chapter 30.
 
-Eugene N. Parker's article, ["The martial art of scientific publication"](https://doi.org/10.1029/97EO00251), *EOS, Transactions of the American Geophysical Union*, vol. 78, no. 37, pp. 391-395.
+Eugene N. Parker's 2011 article, ["The martial art of scientific publication"](https://doi.org/10.1029/97EO00251), *EOS, Transactions of the American Geophysical Union*, vol. 78, no. 37, pp. 391-395.
 
 Freeman Dyson's never delivered AMS Einstein Lecture, [*Birds and Frogs*](https://www.ams.org/notices/200902/rtx090200212p.pdf), published in 2009 in the *Notices of the American Mathematical Society*, vol. 56, no. 2, pp. 212-223.
 

@@ -267,3 +267,5 @@ Freeman Dyson's never delivered AMS Einstein Lecture, [*Birds and Frogs*](https:
 For physics students, see Arlene Modeste Knowles, Fall 2025:  [You belong here](https://students.aip.org/observer/you-belong-here).  *SPS Observer*, LIX (2):  5-6.  See also Leo P. Kadanoff, April 1994:  [Greats](https://doi.org/10.1063/1.2808462).   *Physics Today*, 47 (4):  9-10.
 
 For fluid dynamicists, see G. Batchelor, 1997:  [Research as a life style](https://doi.org/10.1115/1.3101735).  *Applied Mechanics Reviews*, 50:  R11-R20.  I disagree with some of the points he makes, and research today is more stressful, competitive, and disheartening than what he describes.
+
+"Trivial papers are written in every subject but do not determine its future, except when only trivial papers are being written."  -- Jacob Wolfowitz, 1970:  Reflections on the future of statistics. In *Essays in Probability and Statistics*, ed. by R. C. Bose, I. M. Charkavarti, P. C. Mahalanobis, C. R. Rao, and K. J. C. Smith (Chapel Hill: University of North Carolina Press), pp. 739-750.

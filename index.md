@@ -213,6 +213,8 @@ B. Hayes, 2001: Randomness as a resource. *American Scientist*, 89: 300-304.
 
 J. R. Hollenbeck and P. M. Wright, 2016:  Harking, sharking, and tharking:  Making the case for post hoc analysis of scientific data.  *Journal of Management*, 43:  5-18.
 
+D. Kleppner, 1992:  Fretting about statistics.  *Physics Today*, vol. 45, no. 7 (July 1992), pp. 9-11.
+
 C. Krumme, 2017:  Babylonian lottery.  [*Edge*](https://www.edge.org/response-detail/27102).
 
 M. Lavine, 2019:  Frequentist, Bayes, or other?  *The American Statistican*, 73 (sup1):  312-318.

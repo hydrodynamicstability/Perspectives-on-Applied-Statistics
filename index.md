@@ -104,7 +104,7 @@ Source:  A. Gelman (2024), [The River, the Village, and the Fort: Nate Silver’
 
 "To me, doing poorly-motivated model selection and then trying to clean it up statistically is kinda like making a big mess and then trying to clean it up, or blowing something up and then trying to put it back together. I’d rather try to do something reasonable in the first place. And then, yes, there are still selection issues—there’s not one single reasonable hierarchical model, or only one single reasonable regularized machine learning algorithm, or whatever—but the selection becomes a much smaller part of the problem, which in practice gets subsumed by multiple starting points, cross validation, new data and theories, external validation, etc."
 
-Source:  A. Gelman (2024:, [Answering two questions, one about Bayesian post-selection inference and one about prior and posterior predictive checks](https://statmodeling.stat.columbia.edu/2024/12/11/51447/), *Statistical Modeling, Causal Inference, and Social Science*, Dec. 11, 2024.
+Source:  A. Gelman (2024), [Answering two questions, one about Bayesian post-selection inference and one about prior and posterior predictive checks](https://statmodeling.stat.columbia.edu/2024/12/11/51447/), *Statistical Modeling, Causal Inference, and Social Science*, Dec. 11, 2024.
 
 ### Erica Thompson
 

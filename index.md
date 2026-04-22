@@ -209,6 +209,8 @@ S. Greenland, 2017:  For and against methodologies:  some perspectives on recent
 
 S. Greenland, 2017:  The need for cognitive science in methodology.  *American Journal of Epidemiology*, 186:  639-645.
 
+S. Greenland, 2025:  [Statistical methods:  basic concepts, interpretations, and cautions](https://doi.org/10.1007/978-1-4614-6625-3_54-1).  *Handbook of Epidemiology*, ed. by W. Ahrens and I. Pigeot (New York:  Springer).  [ArXiv version](https://arxiv.org/abs/2508.10168).
+
 R. W. Hamming, 1973:  The art of computing for scientists and engineers.  *Numerical Methods for Scientists and Engineers*, second edition (New York:  McGraw-Hill; reprinted by Dover in 1986), Chapter "N+1" (pp. 702-710).
 
 B. Hayes, 2001: Randomness as a resource. *American Scientist*, 89: 300-304.

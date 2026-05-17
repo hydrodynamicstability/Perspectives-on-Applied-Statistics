@@ -257,6 +257,44 @@ J. W. Tukey, 1980:  We need both exploratory and confirmatory.  *American Statis
 
 R. L. Wasserstein and N. A. Lazar, 2016:  The ASA's statement on p-values:  context, process, and purpose.  *The American Statistician*, 70:  129-133.
 
+## Some thoughts on modeling, beyond statistical modeling
+
+### Lee A, Segel
+
+"Different models are required to answer different questions."
+
+[....]
+
+"Beyond a certain point, however, the achievement of better agreement with experiment is illusory.  Since a model is an approximation to reality there is a limit to the expected agreement beteween theory and experiment.  It is important to keep this fact in mind in order to avoid giving automatic preference of one model over another because one gives results in closer accord with reality."
+
+[....]
+
+"[A] complex system can be characterized by the fact that it must be attacked via many models.  No single model will ever suffice.  Moreover, the more models required, the more complex the system must be.  (I recently learned that J. Casti put forward a similar idea.)"
+
+Source:  Segel, 1995:  Grappling with complexity.  *Complexity*, vol. 1, pp. 18-25.
+
+### David A. Randall and Bruce A. Wielicki
+
+"Tuning consists of adjusting coefficients in a model to improve the agreement between the model results and measurements.  Modelers sometimes say they need data so that they can tune their models."
+
+[....]
+
+"Modelers sometimes say they need data to 'calibrate' their models.  Model calibration is the same as tuning, except that...the word tuning has certain negative connotations, while calibration has positive connotations.  We all appreciate that instrument calibration is a good thing.  Surely, then, model calibration is also a good thing, unlike, for example, tuning."
+
+[....]
+
+"Tuning consists of...adjusting parameters after a model is run to improve the agreement between the model results and data.  Tuning is bad empiricism.  Calibration is bad empiricism with a bag over its head."
+
+[....]
+
+"[T]he most scientifically valuable thing that can come out of a comparison of measurements with model results is to show that the model has failed."
+
+[....]
+
+"We often hear it said in seminars or informal conversations that 'such and such a model has been tuned' or 'so and so must have tuned the model in order to get such good agreement'.  These accusations are cheap shots:  they are very easy to make and very difficult to refute."
+
+Source:  Randall and Wielicki, 1997:  Measurements, Models, and Hypotheses in the Atmospheric Sciences.  *Bulletin of the American Meteorological Society*, vol. 78, no. 3, pp. 399-406.
+
 
 ## Some thoughts on being a researcher
 

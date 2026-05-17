@@ -132,6 +132,12 @@ Source:  Excerpts from Chapter 4, *My American Journey*, by Colin Powell with Jo
 
 Source:  Excerpt from the Conclusion (Chapter 6) of E. Labrousse's *Bayle* (1983), translated by Denys Potts (New York:  Oxford University Press).
 
+### Blaise Pascal
+
+"Imagination's ability to conceive will tire before nature's ability to provide."
+
+Source:  *Pensees* (1670), fragment 72.  Translation provided by Thierry Kauffman.
+
 ### Richard P. Feynman
 
 "[T]he imagination of nature is far, far greater than the imagination of man."

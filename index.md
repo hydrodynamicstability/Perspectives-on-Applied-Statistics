@@ -270,6 +270,8 @@ Freeman Dyson's never delivered AMS Einstein Lecture, [*Birds and Frogs*](https:
 
 [The Scientific Virtues](https://slimemoldtimemold.com/2022/02/10/the-scientific-virtues/) by Slime Mold Time Mold (Feb. 10, 2022).
 
+An exceedingly elitist view was given by Edward O. Wilson, [Scientists, Scholars, Knaves and Fools](https://www.jstor.org/stable/27856929), *American Scientist*, vol. 86, pp. 6-7 (Jan-Feb, 1998).
+
 For physics students, see Arlene Modeste Knowles, Fall 2025:  [You belong here](https://students.aip.org/observer/you-belong-here).  *SPS Observer*, LIX (2):  5-6.  See also Leo P. Kadanoff, April 1994:  [Greats](https://doi.org/10.1063/1.2808462).   *Physics Today*, 47 (4):  9-10.
 
 For physics teachers, see David J. Griffiths, 2009:  [Illuminating physics for students](https://physicsworld.com/a/illuminating-physics-for-students/).  *Physics World*, 22 (9):  16-17.

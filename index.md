@@ -259,7 +259,7 @@ R. L. Wasserstein and N. A. Lazar, 2016:  The ASA's statement on p-values:  cont
 
 ## Some thoughts on modeling, beyond statistical modeling
 
-### Lee A, Segel
+### Lee A. Segel
 
 "Different models are required to answer different questions."
 

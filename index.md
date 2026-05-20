@@ -323,3 +323,5 @@ For physics teachers, see David J. Griffiths, 2009:  [Illuminating physics for s
 For fluid dynamicists, see G. Batchelor, 1997:  [Research as a life style](https://doi.org/10.1115/1.3101735).  *Applied Mechanics Reviews*, 50:  R11-R20.  I disagree with some of the points he makes, and research today is more stressful, competitive, and disheartening than what he describes.
 
 "Trivial papers are written in every subject but do not determine its future, except when only trivial papers are being written."  -- Jacob Wolfowitz, 1970:  Reflections on the future of statistics. In *Essays in Probability and Statistics*, ed. by R. C. Bose, I. M. Charkavarti, P. C. Mahalanobis, C. R. Rao, and K. J. C. Smith (Chapel Hill: University of North Carolina Press), pp. 739-750.
+
+"Published is perished; any published data, web or otherwise, lags behind the knowledge that people have."  -- Hugues Sicotte, 1997:  [Starting a pyramid](https://www.aps.org/archives/publications/apsnews/199711/career.cfm).  *APS News*, Nov. 1997.

@@ -8,7 +8,7 @@ UNDER CONSTRUCTION!!!
   
 Evidence and reason matter.  They are not the only things that matter:  a great way to breed resentment is to decree a coldly rational decision that tramples on our dignity.  (Example: claims that AI can replace graduate students; see Sokol, 2026.)
 
-Nonetheless, too often members of our civilization express disinterest, dismissal, or outright denial of evidence and reason, in favor of wishes, feelings, and ideology.  Having said that, not all evidence is created equal; not all attempts to deploy reason are sound.  Evidence and reason deserve to be scrutinized, challenged, and stress-tested.   Statistical thinking and statistical methodology, carefully deployed, can be a part of this evaluation.  Too often though, statististics serves to obfuscate, mislead, or oversimplify.
+Nonetheless, too often members of our civilization express disinterest, dismissal, or outright denial of evidence and reason, which require effort, in favor of wishes, feelings, and ideology.  Having said that, not all evidence is created equal; not all attempts to deploy reason are sound.  Evidence and reason deserve to be scrutinized, challenged, and stress-tested.   Statistical thinking and statistical methodology, carefully deployed, can be a part of this evaluation.  Too often though, statististics serves to obfuscate, mislead, or oversimplify.
 
 "Statistical thinking is unnatural."
 

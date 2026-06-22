@@ -10,7 +10,7 @@ UNDER CONSTRUCTION!!!
 - Know your collaborators.
 - Know the wider audience for the work.
 - Find out what the real (not as-posed) questions are.
-- Find alternatives to null hypothesis tests whenever possible.
+- Find alternatives to null hypothesis tests, correlation coefficients, and $p$ values, whenever possible.  This effort will usually result in more thoughtful deliverables for your collaborators.
 
 ---
 

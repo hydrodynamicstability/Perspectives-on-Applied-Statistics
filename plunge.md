@@ -8,9 +8,9 @@ UNDER CONSTRUCTION!!!
 
 This is a direct quote from Leo Breiman (2001).
 
-Usually I expend at least 80% of my effort for a project on acquiring, reformatting, cleaning, and inspecting the data, before attempting to fit a model.  This includes making cross-tabulations and graphs comparing various variables.  The purpose is to interrogate the data quality, to generate questions for the data owner, discover and fix potential data errors, and gain a better understanding of the data (as distinct from the study design and other details gleaned separately).  The process includes finding and dealing with missing data and outliers.
+Usually I expend at least 80% of my effort for a project on acquiring, reformatting, cleaning, and inspecting the data, before attempting to fit a model.  This includes making cross-tabulations and graphs comparing various variables.  The purpose is to interrogate the data quality, to generate questions for the data owner, discover and fix potential data errors, and gain a better understanding of the data (as distinct from the study design and other details gleaned separately).  The process includes finding and dealing with inconsistencies, missing data, and outliers.
 
-Chatfield (1985, 1986, 1995) makes a subtle distinction between the *initial* analysis of data and the *exploratory* analysis of data.
+Chatfield (1985, 1986, 1995) makes a subtle distinction between the *initial* analysis of data and the *exploratory* analysis of data.  For me, the first leads to the second, and in some cases the entire exercise shows that no formal modeling effort should even be attempted.
 
 “Exploratory data analysis is detective work—numerical detective work—or counting detective work—or graphical detective work.”
 

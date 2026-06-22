@@ -4,11 +4,11 @@ by Christopher Tong
 
 UNDER CONSTRUCTION!!!
 
-### Probabilistic thinking is underrated by those who have not been trained in its use.
+### Probabilistic thinking is *under*rated by those who have *not* been trained in its use.
 
 Gigerenzer (2002) has provided ample documentation.
 
-### Probabilistic thinking is overrated by those who have been so trained.
+### Probabilistic thinking is *over*rated by those who *have* been so trained.
 
 See Taleb (2010), Crane (2020), and Kay and King (2020).  You can get a flavor of the arguments they make from the first few quotes listed on my other [site](https://hydrodynamicstability.github.io/Perspectives-on-Applied-Statistics/).
 

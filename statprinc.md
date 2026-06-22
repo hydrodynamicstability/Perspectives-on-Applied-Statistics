@@ -13,9 +13,15 @@ UNDER CONSTRUCTION!!!
 
 - Be relentlessly skeptical of the data.
 
+    - [Further discussion](thedata.md)
+      
 - “Live with the data before you plunge into modeling.”  -- Leo Breiman, 2001:  Statistical modeling: the two cultures. *Statistical Science*, 16: 199-231.
 
+    - [Further discussion](plunge.md)
+
 - Probabilistic thinking is *under*rated by those who have *not* been trained in its use; probabilistic thinking is *over*rated by those who *have* been so trained.
+
+    - [Further discussion](probability.md)
 
 - "All models are wrong, but some are useful."  -- George E. P. Box
 
@@ -23,16 +29,27 @@ UNDER CONSTRUCTION!!!
 
 - The better the model fit, the worse the model's ability to generalize beyond the data.
 
+    - [Further discussion](overfitting.md)
+      
 - The outputs of a statistical model are statements about the model, not about the real world.
 
+    - [Further discussion](reification.md)
+      
 - Statistical inferences do not quantify uncertainty; at best they put a lower bound on uncertainty.  Uncertainty is best probed further empirically, with more and better data.
+
+    - [Further discussion](uncertainty.md)
 
 - Seek statistical methods by their fitness for purpose, rather than those that are familiar, convenient, or even innovative and fancy.
 
 - Collaboration and communication will determine success or failure.
 
+    - [Further discussion](collaborate.md)
+
 - To study how to learn from data, begin with the history of science and engineering.  This is your first-order guide; use "statistics" only as a second-order refinemenet.
 
+    - [Further discussion](historysci.md)
+ 
+      
 ---
 
 ### Explanation

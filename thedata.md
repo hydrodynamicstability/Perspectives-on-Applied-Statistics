@@ -32,12 +32,15 @@ UNDER CONSTRUCTION!!!
    - Peter J. Huber (2011)
 
 
-Any fool can take data. It’s taking good data that counts.”
+"Any fool can take data. It’s taking good data that counts.”
 
    - Attributed to Eugene Commins (who denied saying it).  Source: American Institute of Physics [oral history interview](https://www.aip.org/history-programs/niels-bohr-library/oral-histories/44803) of Allan Franklin by David Zierler, 12 May 2020.
 
+### Example
 
+"We once worked with an instrument that allowed the user to retrieve stored time series data with a choice of time-resolution.  Upon investigation, we found that the system was artificially interpolating data, and reporting values not actually measured, if the user chose a high resolution."
 
+  - C. Tong (2019)
 
 
 
@@ -52,6 +55,7 @@ J. S. Hunter, 1980:  The national system of scientific measurement. *Science*, 2
 
 M. Pidd, 1999:  Just modeling through: a rough guide to modeling. *Interfaces*, 29 (2): 118-132.
 
+C. Tong, 2019: Statistical inference enables bad science; statistical thinking enables good science. *American Statistician*, 73, sup 1: 246-261.
 
 ---
 

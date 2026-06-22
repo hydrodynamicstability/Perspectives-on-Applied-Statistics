@@ -41,6 +41,8 @@ UNDER CONSTRUCTION!!!
 
 - Seek statistical methods by their fitness for purpose, rather than those that are familiar, convenient, or even innovative and fancy.
 
+- Know the difference between exploratory and confirmatory; be wary of doing both on the same data set.
+
 - Collaboration and communication will determine success or failure.
 
     - [Further discussion](collaborate.md)

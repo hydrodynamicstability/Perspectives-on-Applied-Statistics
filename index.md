@@ -2,6 +2,8 @@
 
 Assembled by C. Tong.  This is a living, growing page, so not the last word.
 
+Related:  see my [Personal Principles of Statistical Practice](statprinc.md).
+
 ### Richard von Mises
 
 "The leitmotif, the ever recurring melody, is that two things are indispensable in any reasoning, in any description we shape of a segment of reality: to submit to experience and to face the language that is used, with unceasing logical criticism."

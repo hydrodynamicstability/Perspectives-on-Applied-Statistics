@@ -6,6 +6,12 @@ UNDER CONSTRUCTION!!!
 
 ### Statistical inferences do not quantify uncertainty; at best they put a lower bound on uncertainty. Uncertainty is best probed further empirically, with more and better data.
 
+I argued for this position at length in [my 2019 paper](https://doi.org/10.1080/00031305.2018.1518264).
+
+
+“Notions of significance tests, confidence intervals, posterior intervals and all the formal apparatus of inference are valuable tools to be used as guides, but not in a mechanical way; they indicate the uncertainty that would apply under somewhat idealized, maybe very idealized, conditions and as such are often lower bounds to real uncertainty.”
+
+  - Sir David R. Cox (2001)
 
 
 "In summary, a statement of statistical reliability attempts to present to the reader a lower limit (or an upper limit) above which (or below which) he may assume rationally, with a stated risk, that the results of bigger samples would fall, if freed of important persistent operational blemishes.  It should present any information that might help the reader to form his own opinion concerning the validity of conclusions likely to be drawn from the results.
@@ -16,9 +22,11 @@ UNDER CONSTRUCTION!!!
 
 ### References
 
+D. R. Cox, 2001:  Comment on L. Breiman, Statistical modeling: the two cultures. *Statistical Science*, 16: 199-231.
 
 W. E. Deming, 1965: Principles of professional statistical practice. Annals of Mathematical Statistics, 36: 1883-1900.
 
+C. Tong, 2019: Statistical inference enables bad science; statistical thinking enables good science. American Statistician, 73, sup 1: 246-261.
 
 ---
 

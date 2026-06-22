@@ -6,7 +6,7 @@ UNDER CONSTRUCTION!!!
 
 ### Statistical inferences do not quantify uncertainty; at best they put a lower bound on uncertainty. Uncertainty is best probed further empirically, with more and better data.
 
-I argued for this position at length in [my 2019 paper](https://doi.org/10.1080/00031305.2018.1518264).
+I argued for this position at length in [my 2019 paper](https://doi.org/10.1080/00031305.2018.1518264).  Briefly, unless the study design and statistical analysis plan (including the intended statistical model) are prespecified prior to data collection, model uncertainty will not be accounted for in the statistical inferences.  Thus the possibly largest source of uncertainty will not be reflected in the outputs of the fitted statistical model.  Model uncertainty must then be explored empirically by comparing the fitted model's implictations with more and better data.
 
 
 “Notions of significance tests, confidence intervals, posterior intervals and all the formal apparatus of inference are valuable tools to be used as guides, but not in a mechanical way; they indicate the uncertainty that would apply under somewhat idealized, maybe very idealized, conditions and as such are often lower bounds to real uncertainty.”

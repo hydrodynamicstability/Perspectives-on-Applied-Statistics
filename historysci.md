@@ -5,6 +5,9 @@ by Christopher Tong
 UNDER CONSTRUCTION!!!
 
 ### To study how to learn from data, begin with the history of science and engineering. This is your first-order guide; use "statistics" only as a second-order refinemenet.
+
+The discipline of statistics gives itself colossally grandiose definitions, such as "the art and science of learning from data" (Agresti et al., 2022) and so on (see [Fienberg, 2014](https://doi.org/10.1146/annurev-statistics-022513-115703)).  However, professional statisticians also exhibit a stunning and hypocritical lack of interest and knowledge about the history of science and engineering, in which example after example of discovery and invention, driven by the collection and analysis of data, may be found.  The methods of statistical inference rarely appear in this history prior to the Second World War, and are missing still from many key advances since then.  Consequently the statistical profession has an incredibly distorted and narrow perspective on the the primary subject of their own livelihood.
+
   
 "It may be humiliating, but statisticians must face the fact that many accepted laws of science have come from theory and experimentation without benefit of formal statistical design.  Vaccination for prevention of smallpox is one; John Snow's discovery of the source of cholera is another.  So is the law $F = ma$ in physics; also Hooke's law, Boyle's law, Mendel's findings, Kepler's laws, Darwin's theory of evolution, the Stefan-Boltzmann law of radiation (first empirical, later established by physical theory).  All this only means, as everyone knows, that there may well be information in a non-probability sample."
 
@@ -22,13 +25,28 @@ UNDER CONSTRUCTION!!!
 
   -- John W. Tukey (1962)
 
+It is praiseworthy that in addition to Tukey, George Box (1999), David Freedman (1999), and Bradley Efron (2004) may be counted among the handful of our profession's thought leaders who have taken a serious interest in how non-statisticians actually use data for discovery and invention.  See my paper on Andrew Carnegie for further discussion of this matter (Tong, 2021).
+
+
 ### References
 
+A. Agresti, C. Franklin, and B. Klingenberg, 2022:  *Statistics:  The Art and Science of Learning from Data*, 5th edition.  Pearson.
+
+G. E. P. Box, 1999:  Statistics as a catalyst to learning by scientific method. Part II -- A discussion.  *Journal of Quality Technology*, 31, 16–29.
+
 W. E. Deming, 1965:  Principles of professional statistical practice.  *Annals of Mathematical Statistics*, 36:  1883-1900.
+
+B. Efron, 2004:  Statistics and the rules of science.  *Amstat News*, July 2004 issue, pp. 2-3.
+
+S. E. Fienberg, 2014:   What is statistics? *Annual Review of Statistics and Its Application*, 1: 1-9.
+
+D. Freedman, 1999:  From association to causation: some remarks on the history of statistics.  *Statistical Science*, 14, 243–258. 
 
 G. Gigerenzer and J. N. Marewski, 2015:  Surrogate science:  the idol of a universal method for scientific inference.  *Journal of Management*, 41:  421-440.
 
 C. Tong, 2019:  Statistical inference enables bad science; statistical thinking enables good science.  *American Statistician*, 73, sup 1:  246-261.
+
+C. Tong, 2021:  The statistical endeavors of Andrew Carnegie.  *Chance*, 34 (4):  12-17.  See also [notes](https://hydrodynamicstability.github.io/AndrewCarnegie/) for a talk based on this paper.
 
 J. Tukey, 1962:  The future of data analysis.  *Annals of Mathematical Statistics*, 33: 1-67.
 

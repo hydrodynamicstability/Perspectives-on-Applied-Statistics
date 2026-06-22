@@ -15,7 +15,7 @@ UNDER CONSTRUCTION!!!
 
     - [Further discussion](thedata.md)
       
-- “Live with the data before you plunge into modeling.”  -- Leo Breiman, 2001:  Statistical modeling: the two cultures. *Statistical Science*, 16: 199-231.
+- “Live with the data before you plunge into modeling.”  -- Leo Breiman
 
     - [Further discussion](plunge.md)
 

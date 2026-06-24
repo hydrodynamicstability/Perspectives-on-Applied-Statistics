@@ -14,6 +14,8 @@ Chatfield (1985, 1986, 1995) makes a subtle distinction between the *initial* an
 
 “Exploratory data analysis is detective work—numerical detective work—or counting detective work—or graphical detective work.”
 
+"One thing we regretfully learn about work with numbers is the need for checking.  Late-caught errors make for painful repetition of steps we thought finished.  Checking is inevitable; yet, if it is too extensive, we spend all our time getting the errors out of the checks.  Our need is for enough checks but not too many."
+
   - John W. Tukey (1977)
 
 ### References

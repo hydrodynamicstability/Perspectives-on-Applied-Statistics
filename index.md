@@ -243,6 +243,8 @@ J. S. Mogil and M. R. Macleod, 2017:  No publication without confirmation.  *Nat
 
 M. R. Munafo and G. Davey Smith, 2018:  Robust research needs many lines of evidence.  *Nature*, 553:  399-401.
 
+R. Nisbet, J. Elder, and G. Miner, 2009:  [Top 10 data mining mistakes](https://www.elderresearch.com/wp-content/uploads/2020/10/Elder-Research_eBook_Top-10-Data-Mining-Mistakes.pdf).  *Handbook of Statistical Analysis and Data Mining Applications*, first edition.  Academic Press, Chapter 20 (pp. 733-754).
+
 N. Oreskes, K. Shrader-Frechette, and K. Belitz, 1994:  Verification, validation, and confirmation of numerical models in the earth sciences.  *Science*, 263:  641-646.
 
 H. Quinn, 2009:  What is science?  *Physics Today*, 62 (7):  8-9.

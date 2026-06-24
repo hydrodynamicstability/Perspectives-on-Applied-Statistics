@@ -28,7 +28,7 @@ C. Chatfield, 1986:  Exploratory data analysis.  *European Journal of Operations
 
 C. Chatfield, 1995:  *Problem Solving:  A Statistician's Guide*, second edition.  Chapman & Hall/CRC.
 
-J. Tukey, 1977:  *Exploratory Data Analysis*.  Addison-Wesley.
+J. W. Tukey, 1977:  *Exploratory Data Analysis*.  Addison-Wesley.
 
 ---
 

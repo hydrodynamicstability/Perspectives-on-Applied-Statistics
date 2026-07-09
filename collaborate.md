@@ -21,6 +21,10 @@ UNDER CONSTRUCTION!!!
 
   - Colin P. Mallows (1998)
 
+"Nonstatisticians can also appear much more confident than statisticians that their tools can solve all problems without knowing the context of the problem. That stance can be appealing to [consultees]. Experienced statisticians are more insistent that they have to understand the context of a problem and the nature and quality of the data and identify sources of possible bias and variability before drawing inferences. Not only does this lead to slower (even if better) analyses, but this requires time and effort on the part of [consultees]."
+
+  - Diane Lambert (1998)
+
 “The statistician who supposes that his main contribution to the planning of an experiment will involve statistical theory, finds repeatedly that he makes his most valuable contribution simply by persuading the investigator to explain why he wishes to do the experiment, by persuading him to justify the experimental treatments, and to explain why it is that the experiment, when completed, will assist him in his research.”
 
   - Gertrude M. Cox (1951)
@@ -33,6 +37,8 @@ UNDER CONSTRUCTION!!!
 ### References
 
 G. M. Cox, 1951:  Lecture at the U.S. Department of Agriculture, Washington, D.C., 11 January 1951. Quoted by W. Edwards Deming (1960), *Sample Design in Business Research*. Wiley.
+
+D. Lambert, 1998:  Another view.  *Technometrics*, 40: 201-203.
 
 C. P. Mallows, 1998:  The zeroth problem. *American Statistician*, 52: 1-9.
 

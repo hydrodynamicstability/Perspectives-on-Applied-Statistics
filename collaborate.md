@@ -7,10 +7,13 @@ UNDER CONSTRUCTION!!!
 ### Collaboration and communication will determine success or failure.
 
 - Know the subject matter of the substantive application.
-- Know your collaborators.
+- Know your collaborators.  They should expect to be deluged with questions from the statistician, with each new consultation.
 - Know the wider audience for the work.
 - Find out what the real (not as-posed) questions are.
 - Find alternatives to null hypothesis tests, correlation coefficients, and $p$ values, whenever possible.  This effort will usually result in more thoughtful deliverables for your collaborators.
+- Seek opportunities to present your work.  Volunteer, don't just wait to be asked.
+- Seek opportunities to learn and grow.  Be restless.
+- Document everything; ensure you can reproduce any analyses 10 or 20 years in the future.
 
 ---
 

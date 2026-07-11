@@ -23,8 +23,6 @@ UNDER CONSTRUCTION!!!
 
     - [Further discussion](probability.md)
 
-- "All models are wrong, but some are useful."  -- George E. P. Box
-
 - Be honest about the extent to which the model assumptions are faith-based, and inject massive information from outside the data into the analysis.
 
 - The better the model fit, the worse the model's ability to generalize beyond the data.
@@ -39,7 +37,7 @@ UNDER CONSTRUCTION!!!
 
     - [Further discussion](uncertainty.md)
 
-- Seek statistical methods by their fitness for purpose, rather than those that are familiar, convenient, or even innovative and fancy.
+- Seek statistical methods by their adequacy for purpose, rather than those that are familiar, convenient, or even innovative and fancy.
 
 - Know the difference between exploratory and confirmatory analyses; be wary of doing both on the same data set.
 

@@ -8,6 +8,7 @@ UNDER CONSTRUCTION!!!
 
 The discipline of statistics gives itself colossally grandiose definitions, such as "the art and science of learning from data" (Agresti et al., 2022) and so on (see [Fienberg, 2014](https://doi.org/10.1146/annurev-statistics-022513-115703)).  However, professional statisticians also exhibit a stunning and hypocritical lack of interest and knowledge about the history of science and engineering, in which example after example of discovery and invention, driven by the collection and analysis of data, may be found.  The methods of statistical inference rarely appear in this history prior to the Second World War, and are missing still from many key advances since then.  Consequently the statistical profession has an incredibly distorted and narrow perspective on the the primary subject of their own livelihood.
 
+---
   
 "It may be humiliating, but statisticians must face the fact that many accepted laws of science have come from theory and experimentation without benefit of formal statistical design.  Vaccination for prevention of smallpox is one; John Snow's discovery of the source of cholera is another.  So is the law $F = ma$ in physics; also Hooke's law, Boyle's law, Mendel's findings, Kepler's laws, Darwin's theory of evolution, the Stefan-Boltzmann law of radiation (first empirical, later established by physical theory).  All this only means, as everyone knows, that there may well be information in a non-probability sample."
 

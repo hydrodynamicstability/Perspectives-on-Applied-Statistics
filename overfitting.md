@@ -10,6 +10,8 @@ This principle applies whenever the data themselves are used to influence the fo
 
 Bert Gunter and I explained this issue at greater length in our 2017 [critique](https://doi.org/10.1111/j.1740-9713.2017.01057.x) of frequentist inference.  Similar arguments apply to Bayesian and likelihoodist inference, due to the Likelihood Principle.  See also my [2019 paper](https://doi.org/10.1080/00031305.2018.1518264) for additional discussion and references.
 
+---
+
 “Using the data to guide the data analysis is almost as dangerous as not doing so.”
 
   - Frank E. Harrell, Jr. (2001)

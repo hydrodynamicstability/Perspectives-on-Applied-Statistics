@@ -6,9 +6,9 @@ UNDER CONSTRUCTION!!!
 
 ### Statistical inferences do not quantify uncertainty; at best they put a lower bound on uncertainty. Uncertainty is best probed further empirically, with more and better data.
 
-I argued for this position at length in [my 2019 paper](https://doi.org/10.1080/00031305.2018.1518264).  Briefly, unless the study design and statistical analysis plan (including the intended statistical model) are prespecified prior to data collection, model uncertainty will not be accounted for in the statistical inferences.  Thus the possibly largest source of uncertainty will not be reflected in the outputs of the fitted statistical model.  Model uncertainty must then be explored empirically by comparing the fitted model's implictations with more and better data.
+I argued for this position at length in [my 2019 paper](https://doi.org/10.1080/00031305.2018.1518264).  Briefly, unless the study design and statistical analysis plan (including the intended statistical model) are prespecified prior to data collection, model uncertainty (Chatfield, 1995) will not be accounted for in the statistical inferences.  Thus the possibly largest source of uncertainty will not be reflected in the outputs of the fitted statistical model.  Model uncertainty must then be explored empirically by comparing the fitted model's implictations with more and better data.
 
-The reason for this is alluded to in an earlier principle, [The better the model fit, the worse the model's ability to generalize beyond the data](https://github.com/hydrodynamicstability/Perspectives-on-Applied-Statistics/blob/gh-pages/overfitting.md).  However, in most research, the analyst must carry out iterative model building, model criticism, and model selection in order to better characterize the data generating process.  This necessary process inevitably results in a loss of control of the statistical properties of any inferences from the "final model", such as error rates and coverage probabilities.
+The reason for this is alluded to in an earlier principle, [The better the model fit, the worse the model's ability to generalize beyond the data](https://github.com/hydrodynamicstability/Perspectives-on-Applied-Statistics/blob/gh-pages/overfitting.md).  However, in most research, the analyst must carry out iterative model building, model criticism, and model selection in order to better characterize the data generating process.  This necessary process inevitably results in a loss of control of the statistical properties of any inferences from the "final model", such as error rates and coverage probabilities.  These inferences will thus be overconfident, an effect Picard & Cook (1984) dubbed "the Optimism Principle".
 
 Statistics as a discipline has achieved success to a large extent by promulgating the illusion that its methodology can be used to properly characterize (and thus tame) uncertainty.  This is only approximately true in highly controlled situations such as acceptance sampling in quality control, or phased clinical trials complying with ICH E8, for the reasons stated above.  The perennial and unresolvable debates over the discipline's "foundations" (i.e., frequentist vs. Bayesian vs. likelihoodist, etc.) are fundamentally ideological, and have distracted attention from the model uncertainty issues which they fail to address.
 
@@ -27,9 +27,13 @@ Statistics as a discipline has achieved success to a large extent by promulgatin
 
 ### References
 
+C. Chatfield, 1995:  Model uncertainty, data mining and statistical inference (with discussion), *Journal of the Royal Statistical Society A*, 158: 419–466.
+
 D. R. Cox, 2001:  Comment on L. Breiman, Statistical modeling: the two cultures. *Statistical Science*, 16: 199-231.
 
 W. E. Deming, 1965: Principles of professional statistical practice. Annals of Mathematical Statistics, 36: 1883-1900.
+
+R. R. Picard and R. D. Cook, 1984:  Cross-validation of regression models.  *Journal of the American Statistical Association*, 79: 575–583
 
 C. Tong, 2019: Statistical inference enables bad science; statistical thinking enables good science. American Statistician, 73, sup 1: 246-261.
 

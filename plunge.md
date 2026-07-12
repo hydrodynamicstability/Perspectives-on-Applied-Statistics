@@ -12,6 +12,8 @@ Usually I expend at least 80% of my effort for a project on acquiring, reformatt
 
 Chatfield (1985, 1986, 1995) makes a subtle distinction between the *initial* analysis of data and the *exploratory* analysis of data.  For me, the first leads to the second, and in some cases the entire exercise shows that no formal modeling effort should even be attempted.
 
+---
+
 “Exploratory data analysis is detective work—numerical detective work—or counting detective work—or graphical detective work.”
 
 "One thing we regretfully learn about work with numbers is the need for checking.  Late-caught errors make for painful repetition of steps we thought finished.  Checking is inevitable; yet, if it is too extensive, we spend all our time getting the errors out of the checks.  Our need is for enough checks but not too many."

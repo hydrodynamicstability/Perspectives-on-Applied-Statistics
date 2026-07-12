@@ -12,6 +12,7 @@ This is related to a legitimate debate within the philosophy of science, between
 
 Statistical models, on the other hand, are usually purely empirical models of the data generating process: elaborate curve-fits, if you will.  March (1970) rightly observed that "as [Max] Planck fully realized, finding an empirical formula, one that fits the data but is not based on a physical picture of the process being described, can never be an end in itself in physics."  By contrast, statistical models are not meant for extrapolation because there is no empirical basis to extrapolate them.  Unlike the theories of other sciences, where a legitimate debate over their "reality" could be made, statistical models must *always* be entertained solely from an instrumentalist viewpoint.
 
+---
 
 "All models are wrong, but some are useful."  
 

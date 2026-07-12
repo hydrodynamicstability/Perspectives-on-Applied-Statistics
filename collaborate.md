@@ -15,6 +15,8 @@ UNDER CONSTRUCTION!!!
 - Seek opportunities to learn and grow.  Be restless.
 - Document everything; ensure you can reproduce any analyses 10 or 20 years in the future.
 
+With gratitude to Scott Evans' [Statistics is a journey, not a destination](https://stattrak.amstat.org/2026/03/02/clinicaltrialadvice/).
+
 ---
 
 “The main challenge of applied statistical work is that of taking proper account of contextual issues. Good techniques are not enough; nor are good computer programs, nor powerful theorems. A major intellectual attraction of the discipline is the subtlety of the interplay between the formal statistical procedures and the imperfectly understood substantive questions. The formulation of clean questions is often an important part of an inquiry.”

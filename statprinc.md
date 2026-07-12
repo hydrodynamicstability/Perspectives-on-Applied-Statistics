@@ -37,6 +37,8 @@ UNDER CONSTRUCTION!!!
 
     - [Further discussion](uncertainty.md)
 
+- Don't confuse statistical significance with practical (clinical) significance.
+
 - Seek statistical methods by their adequacy for purpose, rather than those that are familiar, convenient, or even innovative and fancy.
 
 - Know the difference between exploratory and confirmatory analyses; be wary of doing both on the same data set.

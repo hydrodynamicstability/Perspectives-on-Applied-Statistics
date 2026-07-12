@@ -6,7 +6,7 @@ UNDER CONSTRUCTION!!!
 
 ### The better the model fit, the worse the model's ability to generalize beyond the data.
 
-This principle applies whenever the data themselves are used to influence the form of the model to be fit, i.e., the statistical model has not been prespecified.  It is particularly apt in procedures such as using forward or backward stepwise variable selection in regression modeling, as noted by Freedman (1983) and Harrell (2001), among many others.  Indeed, the problem has been known since at least the 1970s (e.g., Mosteller & Tukey, 1977; Leamer, 1978).
+This principle applies whenever the data themselves are used to influence the form of the model to be fit, i.e., the statistical model has not been prespecified.  This is related to the "garden of forking paths" discussed by Gelman & Loken (2014).  It is particularly apt in procedures such as using forward or backward stepwise variable selection in regression modeling, as noted by Freedman (1983) and Harrell (2001), among many others.  Indeed, the problem has been known since at least the 1970s (e.g., Mosteller & Tukey, 1977; Leamer, 1978).
 
 Bert Gunter and I explained this issue at greater length in our 2017 [critique](https://doi.org/10.1111/j.1740-9713.2017.01057.x) of frequentist inference.  Similar arguments apply to Bayesian and likelihoodist inference, due to the Likelihood Principle.  See also my [2019 paper](https://doi.org/10.1080/00031305.2018.1518264) for additional discussion and references.
 
@@ -20,6 +20,8 @@ Bert Gunter and I explained this issue at greater length in our 2017 [critique](
 ### References
 
 D. Freedman, 1983:  A note on screening regression equations.    *American Statistician*, 37:  152-155.
+
+A. Gelman and E. Loken, 2014:  The statistical crisis in science.  *American Scientist*, 102:  460-465.
 
 B. Gunter and C. Tong, 2017:  What are the odds!?  The "airport fallacy" and statistical inference.  *Significance*, 14 (4):  38-41.
 

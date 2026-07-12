@@ -31,7 +31,7 @@ Taleb (2010) defines the "ludic fallacy" as "the manifestation of the Platonic f
 
 ### References
 
-H. Crane, 2020:  [Naive probablism](https://researchers.one/articles/20.03.00003).  Researchers.One.
+H. Crane, 2020:  [Naive probablism](https://researchers.one/articles/20.03.00003).  Researchers.One.  (I am grateful to R\_cubed for bringing this to our attention.)
 
 A. R. Feinstein, 1977:  *Clinical Biostatistics*.  C. V. Mosby.  (I am grateful to ESMD for bringing this to our attention.)
 

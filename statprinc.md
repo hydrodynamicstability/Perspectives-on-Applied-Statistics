@@ -43,6 +43,8 @@ UNDER CONSTRUCTION!!!
 
 - Know the difference between exploratory and confirmatory analyses; be wary of doing both on the same data set.
 
+- "It's the systematic errors that kill you."  -- John Bahcall (quoted in Seife, 2000)
+
 - Collaboration and communication will determine success or failure.
 
     - [Further discussion](collaborate.md)
@@ -71,6 +73,8 @@ W. E. Deming, 1965:  Principles of professional statistical practice.  *Annals o
 R. W. Hamming, 1965:  Numerical analysis vs. mathematics.  *Science*, 148:  473-475.
 
 T. O'Hagan, 2004:   Dicing with the unknown. *Significance*, 1 (3): 132-133.
+
+C. Seife, 2000: CERN’s gamble shows perils, rewards of playing the odds. *Science*, 289: 2260-2262.
 
 ---
 

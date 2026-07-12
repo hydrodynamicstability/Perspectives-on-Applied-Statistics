@@ -12,6 +12,7 @@ The reason for this is alluded to in an earlier principle, [The better the model
 
 Statistics as a discipline has achieved success to a large extent by promulgating the illusion that its methodology can be used to properly characterize (and thus tame) uncertainty.  This is only approximately true in highly controlled situations such as acceptance sampling in quality control, or phased clinical trials complying with ICH E8, for the reasons stated above.  The perennial and unresolvable debates over the discipline's "foundations" (i.e., frequentist vs. Bayesian vs. likelihoodist, etc.) are fundamentally ideological, and have distracted attention from the model uncertainty issues which they fail to address.
 
+---
 
 “Notions of significance tests, confidence intervals, posterior intervals and all the formal apparatus of inference are valuable tools to be used as guides, but not in a mechanical way; they indicate the uncertainty that would apply under somewhat idealized, maybe very idealized, conditions and as such are often lower bounds to real uncertainty.”
 

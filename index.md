@@ -2,7 +2,7 @@
 
 Assembled by C. Tong.  This is a living, growing page, so not the last word.
 
-Related:  see my [Personal Principles of Statistical Practice](https://github.com/hydrodynamicstability/Perspectives-on-Applied-Statistics/blob/gh-pages/statprinc.md).
+<!-- Related:  see my [Personal Principles of Statistical Practice](https://github.com/hydrodynamicstability/Perspectives-on-Applied-Statistics/blob/gh-pages/statprinc.md). -->
 
 ### Richard von Mises
 
